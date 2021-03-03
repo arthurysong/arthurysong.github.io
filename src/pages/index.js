@@ -14,7 +14,11 @@ import resume from "../documents/resume.pdf"
 
 
 const IndexPage = () => (
-  <div style={{ width: 1220, margin: '40px auto', fontFamily: "IBM Plex Mono" }}>
+  <div style={{ 
+    width: 800, 
+    margin: '40px auto', 
+    fontFamily: "IBM Plex Mono", 
+    }}>
     <SEO title="Home" />
     <h1>Arthur Song</h1>
     <div style={{ display: 'flex' }}>
@@ -25,7 +29,7 @@ const IndexPage = () => (
       <ProfileLink link="https://github.com/arthurysong" name="GitHub" />
     </div>
     
-    <div style={{ display: 'flex', flexDirection: 'column', marginTop: 32 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', marginTop: 32, alignItems: 'start', }}>
       <p>Recent Projects</p>
       <Project img={lagdemo} imgAlt="louis and gregory app demo gif" name="Louis and Gregory" description="POS application for Louis and Gregory's beauty product dispensing machine. PayPal SDK, Braintree API, ReactJS, Socket.io, Express" />
       <Project deployedLink="https://www.youtube.com/watch?v=Kr3GwY9iteg&feature=youtu.be&ab_channel=ArthurSong" img={iotcardemo} imgAlt="iot car demo" name="IoT ESP 32 Robot" description="ESP 32 two wheeled robot controlled using a mobile Flutter app. I <3 Arduinos. MQTT, AWS EC2, Flutter, ESP 32" />
