@@ -1,0 +1,9 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/cp-demo.gif": "static/cp-demo-9e1868d6d643864ef769a23b385da4c7.gif",
+  "static/demo.gif": "static/demo-ac78536f8e500e34bf3d43e200234ef9.gif",
+  "static/iotcardemo.gif": "static/iotcardemo-70a09fc69d9362573f76aa22d230a33d.gif",
+  "static/lagdemo.gif": "static/lagdemo-a8041649014998338029b2aa5f966011.gif",
+  "static/resume.pdf": "static/resume-577a804e47bb09e75d7980b062ad0893.pdf"
+}
