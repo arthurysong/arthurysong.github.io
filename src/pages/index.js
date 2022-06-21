@@ -10,7 +10,7 @@ import mwriterdemo from "../images/demo.gif"
 import cpdemo from "../images/cp-demo.gif"
 import lagdemo from "../images/lagdemo.gif"
 import iotcardemo from "../images/iotcardemo.gif"
-import resume from "../documents/resume.pdf"
+import resume from "../documents/resume_06_21_22.pdf"
 
 
 const IndexPage = () => (
