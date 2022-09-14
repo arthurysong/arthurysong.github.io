@@ -1,0 +1,44 @@
+.resume * {
+  margin: 0;
+}
+
+.resume ul {
+  margin-left: 24px;
+}
+
+.resume h3 {
+  font-size: 20px;
+}
+
+.resume .section {
+  margin-bottom: 12px;
+}
+
+.resume .subsection:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.resume h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: georgia, serif;
+}
+
+.resume li,
+p {
+  line-height: 20px;
+}
+
+.resume .links img {
+  width: 14px;
+  margin-right: 6px;
+}
+
+.resume .links li {
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+}
