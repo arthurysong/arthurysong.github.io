@@ -131,7 +131,7 @@ export default function Resume() {
                   </li>
                   <li>
                     Overhauled inventory management logic in Ruby on Rails,
-                    ElasticSearch, Searchkick to support 'first come first
+                    ElasticSearch, and Searchkick to support 'first come first
                     served' model
                   </li>
                 </ul>
