@@ -250,6 +250,13 @@ export default function Resume() {
             <div className="education section">
               <SectionHeader text="Education" />
 
+              <h3>Western Governors University</h3>
+              <h6>Salt Lake City, UT</h6>
+              <p style={{ fontStyle: "italic" }}>(Apr 2024)</p>
+              <p style={{ marginBottom: 18 }}>
+                Bachelor of Science in Computer Science
+              </p>
+
               <h3>Flatiron School</h3>
               <h6>New York, NY</h6>
               <p style={{ fontStyle: "italic" }}>Apr 2019 - Apr 2020</p>
@@ -270,8 +277,9 @@ export default function Resume() {
                 <li>ElasticSearch</li>
                 <li>Git, GitHub</li>
                 <li>SCRUM</li>
+                <li>REST</li>
                 <li>Docker</li>
-                <li>Third-party API's</li>
+                <li>API Integration</li>
               </ul>
             </div>
 
