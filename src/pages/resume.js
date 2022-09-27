@@ -109,26 +109,30 @@ export default function Resume() {
                 </p>
                 <ul>
                   <li>
-                    Improved existing authorization system, allowing clients to
-                    create custom levels of authorization for their businesses'
-                    users
+                    Redesigned authorization system using Ruby on Rails, MySQL,
+                    and Redux, allowing businesses to create custom levels of
+                    authorization for their users
                   </li>
                   <li>
-                    Integrated ChurnZero software into Ruby on Rails and React
+                    Led ChurnZero API integration into Ruby on Rails and React
                     to track user data and reduce churn
                   </li>
                   <li>
-                    Reworked existing Stripe Subscription logic to change
+                    Updated Stripe API business logic in Ruby to reflect new
                     pricing model
                   </li>
                   <li>
-                    Implemented "Work Orders" feature to allow users to track
-                    the maintenance of inventory
+                    Implemented work orders feature in React and Ruby on Rails
+                    to allow users to track the maintenance of inventory
                   </li>
                   <li>
-                    Re-implemented inventory overbooking logic allowing
-                    customers to manage inventory in "first come first served"
-                    basis
+                    Created Ruby scripts to fix bugs for clients and to migrate
+                    existing data to support new features
+                  </li>
+                  <li>
+                    Overhauled inventory management logic in Ruby on Rails,
+                    ElasticSearch, Searchkick to support 'first come first
+                    served' model
                   </li>
                 </ul>
               </div>
@@ -173,8 +177,8 @@ export default function Resume() {
                 </a>
                 <ul>
                   <li>
-                    Utilized npm packages and React to create a modern WYSIWYG
-                    text editor
+                    Utilized Express.js, MongoDB, and React to create a
+                    cloud-based WYSIWYG journal app
                   </li>
                   <li>
                     Automated the creation and importing of GitHub gists using
@@ -194,16 +198,20 @@ export default function Resume() {
                 </a>
                 <ul>
                   <li>
+                    Designed business logic in Rails API to store and represent
+                    Texas Hold’em games
+                  </li>
+                  <li>
                     Integrated Stripe’s payment API to accept user payments and
                     store account funds
                   </li>
                   <li>
-                    Built real-time multi-player capabilities including chatting
-                    using Rails ActionCable and React.js
+                    Integrated Google API to allow authentication via Google
+                    email
                   </li>
                   <li>
-                    Designed business logic in Rails API to store and represent
-                    Texas Hold’em games
+                    Built real-time multi-player capabilities including chatting
+                    using Rails ActionCable and React.js
                   </li>
                 </ul>
               </div>
