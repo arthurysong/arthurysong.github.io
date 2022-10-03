@@ -260,7 +260,7 @@ export default function Resume() {
 
               <h3>Western Governors University</h3>
               <h6>Salt Lake City, UT</h6>
-              <p style={{ fontStyle: "italic" }}>(Apr 2024)</p>
+              <p style={{ fontStyle: "italic" }}>(Apr 2023)</p>
               <p style={{ marginBottom: 18 }}>
                 Bachelor of Science in Computer Science
               </p>
